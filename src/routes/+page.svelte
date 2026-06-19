@@ -78,51 +78,51 @@
 
   const galleryImages = [
     {
-      src: "/media/converted/IMG_3170.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team member assembling rocket at competition",
     },
     {
-      src: "/media/converted/IMG_3330.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Rocket components laid out before launch",
     },
     {
-      src: "/media/converted/IMG_3331.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team carrying rocket to launch pad",
     },
     {
-      src: "/media/converted/IMG_3332.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Close-up of rocket motor section",
     },
     {
-      src: "/media/converted/IMG_3334.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team discussing launch strategy",
     },
     {
-      src: "/media/converted/IMG_3335.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Rocket on launch rail ready for flight",
     },
     {
-      src: "/media/converted/IMG_3388.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team inspecting rocket after recovery",
     },
     {
-      src: "/media/converted/IMG_3389.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Recovered rocket body section on field",
     },
     {
-      src: "/media/converted/IMG_3405.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team at ARC competition site",
     },
     {
-      src: "/media/converted/IMG_3407.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Matador Rocketry team group photo",
     },
     {
-      src: "/media/converted/IMG_3455.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Rocket airframe detail",
     },
     {
-      src: "/media/converted/IMG_4729.jpg",
+      src: "/dark-purple-placeholder.svg",
       alt: "Team working on rocket at launch site",
     },
   ];
@@ -263,7 +263,7 @@
     <div class="about-img-col reveal">
       <div class="about-img-wrapper">
         <img
-          src="/media/converted/IMG_3408.jpg"
+          src="/dark-purple-placeholder.svg"
           alt="Matador Rocketry team in the workshop building their competition rocket"
           loading="lazy"
         />
@@ -666,7 +666,7 @@
   .hero-bg-img {
     position: absolute;
     inset: 0;
-    background: url("/media/converted/IMG_3334.jpg") center center / cover
+    background: url("/dark-purple-placeholder.svg") center center / cover
       no-repeat;
     opacity: 0.22;
     z-index: 0;
